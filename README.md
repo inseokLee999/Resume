@@ -5,7 +5,7 @@
 - 의존성 설치 
     -npx create-next-app@latest resume
     -yarn add sass styled-components react-icons react-fullpage
-
+    -yarn add classnames
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

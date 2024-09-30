@@ -17,6 +17,14 @@ const Wrapper = styled.div`
     .item + .item {
       margin-left: 20px;
     }
+    @media all and (max-width: 650px) {
+      .item {
+        width: 100%;
+      }
+      .item + .item {
+        margin-left: 0;
+      }
+    }
   }
 `;
 const InfoAbout = () => {

@@ -6,10 +6,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "server": "pm2 start ecosystem.config.js",
     "lint": "next lint"
   },
   "dependencies": {
+    "classnames": "^2.5.1",
     "next": "14.2.13",
+    "node": "^22.9.0",
+    "pm2": "^5.4.2",
     "react": "^18",
     "react-dom": "^18",
     "react-fullpage": "^0.1.19",

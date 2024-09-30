@@ -10,6 +10,7 @@ const Wrapper = styled.div`
     .tit {
       font-size: 1.4rem;
       margin-right: 10px;
+      width: auto;
     }
     .bar {
       flex-grow: 1;
