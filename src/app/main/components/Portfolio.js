@@ -129,7 +129,7 @@ const Portfolio = () => {
           </li>
         </ul>
         <div className="tab-content">
-          <div class="title">{title}</div>
+          <div className="title">{title}</div>
           <Content />
         </div>
       </Wrapper>

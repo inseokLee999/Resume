@@ -5,7 +5,7 @@ import styled from "styled-components";
 import Item from "./Item";
 
 const Wrapper = styled.div`
-  paddint-top: 51px;
+  padding-top: 51px;
   .inner {
     display: flex;
     flex-wrap: wrap;

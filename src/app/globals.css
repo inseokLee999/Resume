@@ -41,7 +41,7 @@ dl, dt, dd {
     font-size: 11px;
   }
 }
-@media all and(max-width:420px){
+@media all and (max-width: 420px){
   html{
     font-size:10px;
   }
