@@ -48,7 +48,7 @@ const Tab2Content = () => {
             />
             <div className="description">
                 <p>
-                    <strong>"여행어때?"</strong>는 한국관광공사 데이터를 기반으로 이용자 맞춤형 여행 정보를 제공하는 플랫폼입니다.
+                    <strong>&quot;여행어때?&quot;</strong>는 한국관광공사 데이터를 기반으로 이용자 맞춤형 여행 정보를 제공하는 플랫폼입니다.
                     한국관광공사의 여행지 API를 활용하여 다양한 여행지 정보를 제공합니다.
                 </p>
                 <p>
