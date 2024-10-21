@@ -15,7 +15,7 @@ const ProfileImage = ({ className }) => {
 
 const StyledProfileImage = styled(ProfileImage)`
   background: #b2b2b2 url("/images/inseokLee.png") no-repeat calc(50% + 318px) bottom;
-  height: 450px;
+  height: 300px;
   padding: 50px 30px 10px 30px;
   position: relative;
   @media all and (max-width: 650px) {
